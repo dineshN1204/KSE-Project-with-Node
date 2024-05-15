@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Dinesh",
+      "email": "dinesh@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "884d",
+      "name": "vicky",
+      "email": "vicky@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "921d",
+      "name": "raghul",
+      "email": "raghul@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "0fcd",
+      "name": "raghul",
+      "email": "raghul@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a582",
+      "name": "Dinesh",
+      "email": "dinesh.n2k@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "73e2",
+      "name": "sasi",
+      "email": "sasi@gmail.com",
+      "password": "1234"
+    }
+  ]
+}

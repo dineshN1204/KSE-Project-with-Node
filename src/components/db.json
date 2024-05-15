@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "2275",
+      "eventName": "Hockey",
+      "description": "This event is on June 1sh at 7PM in PSG Institute of Technology",
+      "category": "hockey"
+    },
+    {
+      "id": "8412",
+      "eventName": "Tennis",
+      "description": "This event is on May 20th at 10AM in Hindustan College",
+      "category": "tennis"
+    },
+    {
+      "id": "8212",
+      "eventName": "Kick Boxing",
+      "description": "This event is on June 5th at 2PM in PSG Institute of Technology",
+      "category": "kickboxing"
+    },
+    {
+      "id": "4527",
+      "eventName": "VolleyBall",
+      "description": "This event is on July 25th at 11AM in NGR School",
+      "category": "volleyball"
+    },
+    {
+      "id": "2447",
+      "eventName": "BasketBall",
+      "description": "This event is on May 8th at 5PM in SNR College",
+      "category": "basketball"
+    },
+    {
+      "id": "5465",
+      "eventName": "Athletics",
+      "description": "This event is on June 14th at 2PM in Nehru Stadium",
+      "category": "athletics"
+    },
+    {
+      "id": "0128",
+      "eventName": "Cricket",
+      "description": "This event is on May 15th at 10AM in SNR Cricket Stadium",
+      "category": "cricket"
+    },
+    {
+      "id": "4554",
+      "eventName": "Marathon",
+      "description": "This event is on May 5th at 2PM in KPR College",
+      "category": "marathon"
+    },
+    {
+      "id": "8469",
+      "eventName": "Tennis",
+      "description": "This event is on August 5th at 2PM in Coimbatore Institute of Technology",
+      "category": "tennis"
+    },
+    {
+      "id": "1315",
+      "eventName": "tennis",
+      "description": "tennis",
+      "category": "tennis"
+    }
+  ]
+}
